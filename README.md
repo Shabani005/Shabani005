@@ -1,1 +1,1 @@
-testing readme
+Data Scientist and hobbyist Software Engineer.
