@@ -2,6 +2,6 @@
 
 University of London Data Scientist and hobbyist Software Engineer.
 
-(with a wide range of skillsets)
-
 Contact me @ hasan.shabani2005@gmail.com
+
+![Stats](https://chlorophyll.chwrryon.top/stats/shabani005?bg=pinky-promise-right&tfont=slopness&cfont=slopness&layout=qiwq&tcolor=rgb(245,159,12)&lcolor=rgb(227,51,20)&icolor=rgb(227,51,20)&vcolor=rgb(106,215,115)&avatar=off)
